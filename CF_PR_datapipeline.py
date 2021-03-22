@@ -7,7 +7,7 @@ Created on Thu Mar  4 20:00:33 2021
 
 import pandas as pd
 import numpy as np
-from admin import colclean, newest,rehead,read_json
+from src.admin import colclean, newest,rehead,read_json
 from datetime import datetime
 
 #TODO map the PR-Assist departments to HCM departments
